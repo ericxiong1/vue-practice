@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ericvue-dev-231714-authRole",
+      "UnauthRoleArn": "arn:aws:iam::968770703954:role/amplify-ericvue-dev-231714-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::968770703954:role/amplify-ericvue-dev-231714-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ericvue-dev-231714-deployment",
+      "UnauthRoleName": "amplify-ericvue-dev-231714-unauthRole",
+      "StackName": "amplify-ericvue-dev-231714",
+      "StackId": "arn:aws:cloudformation:us-east-1:968770703954:stack/amplify-ericvue-dev-231714/98819bc0-9177-11ed-9fd3-0a5bc67a48f3",
+      "AmplifyAppId": "d38hzelsfa3i4w"
+    },
+    "categories": {
+      "auth": {
+        "ericvuefb680f78": {}
+      }
+    }
+  }
+}
